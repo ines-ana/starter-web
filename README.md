@@ -17,3 +17,5 @@ This is a simple web project.
 ## How to contribute
 
 You can create new content to this project.
+
+## Copyright
